@@ -1,9 +1,10 @@
-## Hi there! I'm using Github ⚡
+## Hi there! I'm using Github <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">
 
+*Coming soon...*
 
-<!--Here are some of my projects and achievements:
+Feel free to contact me anywhere: 
 
-
+<a href="https://t.me/petrovortex"><img src="https://github.com/CLorant/readme-social-icons/blob/main/medium/filled/telegram.svg"></a> <a href="https://x.com/petrovortex"><img src="https://github.com/CLorant/readme-social-icons/blob/main/medium/filled/twitter.svg"></a> <a href="https://www.instagram.com/petrovortex/"><img src="https://github.com/CLorant/readme-social-icons/blob/main/medium/filled/instagram.svg"></a>  
 
 <!--
 **alex-petrov-git/alex-petrov-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
