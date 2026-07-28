@@ -2,12 +2,6 @@
 
 *Coming soon...*
 
-Feel free to contact me anywhere: 
-
-<a href="https://t.me/petrovortex"><img src="https://github.com/CLorant/readme-social-icons/blob/main/medium/filled/telegram.svg"></a> <a href="https://x.com/petrovortex"><img src="https://github.com/CLorant/readme-social-icons/blob/main/medium/filled/twitter.svg"></a> <a href="https://www.instagram.com/petrovortex/"><img src="https://github.com/CLorant/readme-social-icons/blob/main/medium/filled/instagram.svg"></a>  
-
-alex.petrovortex@gmail.com
-
 ---
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=petrovortex.petrovortex)
